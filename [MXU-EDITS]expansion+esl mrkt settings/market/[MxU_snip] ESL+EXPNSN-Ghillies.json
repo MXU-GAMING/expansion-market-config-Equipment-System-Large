@@ -1,0 +1,72 @@
+{
+    "m_Version": 4,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_GHILLIES",
+    "Items": [
+        {
+            "ClassName": "ghilliehood_tan",
+            "MaxPriceThreshold": 440,
+            "MinPriceThreshold": 220,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ghilliehood_woodland",
+                "ghilliehood_mossy"
+            ]
+        },
+        {
+            "ClassName": "ghilliebushrag_tan",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 400,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ghilliebushrag_woodland",
+                "ghilliebushrag_mossy"
+            ]
+        },
+        {
+            "ClassName": "ghillietop_tan",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ghillietop_woodland",
+                "ghillietop_mossy"
+            ]
+        },
+        {
+            "ClassName": "ghilliesuit_tan",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 1000,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ghilliesuit_woodland",
+                "ghilliesuit_mossy"
+            ]
+        },
+        {
+            "ClassName": "IMP_ViperGhillie_Multicam",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1200,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_ViperGhillie_Flecktarn",
+                "IMP_ViperGhillie_WD",
+                "IMP_ViperGhillie_Arctic"
+            ]
+        }
+    ]
+}

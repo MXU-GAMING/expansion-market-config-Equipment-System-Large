@@ -1,0 +1,283 @@
+{
+    "m_Version": 4,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_VESTS",
+    "Items": [
+        {
+            "ClassName": "reflexvest",
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 5,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "policevest",
+            "MaxPriceThreshold": 70,
+            "MinPriceThreshold": 35,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "huntingvest",
+            "MaxPriceThreshold": 110,
+            "MinPriceThreshold": 55,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "pressvest_blue",
+            "MaxPriceThreshold": 170,
+            "MinPriceThreshold": 85,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "pressvest_lightblue"
+            ]
+        },
+        {
+            "ClassName": "pressvest_lightblue",
+            "MaxPriceThreshold": 180,
+            "MinPriceThreshold": 90,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ukassvest_black",
+            "MaxPriceThreshold": 180,
+            "MinPriceThreshold": 90,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ukassvest_khaki",
+                "ukassvest_olive",
+                "ukassvest_camo"
+            ]
+        },
+        {
+            "ClassName": "ukassvest_camo",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "smershvest",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 150,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "highcapacityvest_black",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 200,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "highcapacityvest_olive"
+            ]
+        },
+        {
+            "ClassName": "highcapacityvest_olive",
+            "MaxPriceThreshold": 460,
+            "MinPriceThreshold": 230,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "platecarriervest",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "IMP_Vest_6b23_Black",
+            "MaxPriceThreshold": 700,
+            "MinPriceThreshold": 300,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Vest_6b23_Green",
+                "IMP_Vest_6b23_Tan",
+                "IMP_Vest_6b23_MARPAT",
+                "IMP_Vest_6b23_NWU",
+                "IMP_Vest_6b23_EMR",
+                "IMP_Vest_6b23_UCP"
+            ]
+        },
+        {
+            "ClassName": "IMP_Vest_6B43_Black",
+            "MaxPriceThreshold": 850,
+            "MinPriceThreshold": 375,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Vest_6B43_Green",
+                "IMP_Vest_6B43_Tan",
+                "IMP_Vest_6B43_Blue",
+                "IMP_Vest_6B43_MARPAT",
+                "IMP_Vest_6B43_EMR",
+                "IMP_Vest_6B43_NWU",
+                "IMP_Vest_6B43_UCP"
+            ]
+        },
+        {
+            "ClassName": "IMP_Vest_6B45_Black",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 450,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Vest_6B45_Green",
+                "IMP_Vest_6B45_Tan",
+                "IMP_Vest_6B45_Blue",
+                "IMP_Vest_6B45_EMR",
+                "IMP_Vest_6B45_NWU",
+                "IMP_Vest_6B45_MARPAT",
+                "IMP_Vest_6B45_UCP"
+            ]
+        },
+        {
+            "ClassName": "IMP_Vest_AACVest_Green",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 100,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Vest_AACVest_Black",
+                "IMP_Vest_AACVest_Blue",
+                "IMP_Vest_AACVest_Tan",
+                "IMP_Vest_AACVest_MARPAT",
+                "IMP_Vest_AACVest_EMR",
+                "IMP_Vest_AACVest_UCP",
+                "IMP_Vest_AACVest_NWU"
+            ]
+        },
+        {
+            "ClassName": "IMP_Vest_Defender_Black",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 250,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Vest_Defender_Green",
+                "IMP_Vest_Defender_Tan",
+                "IMP_Vest_Defender_MARPAT",
+                "IMP_Vest_Defender_NWU",
+                "IMP_Vest_Defender_UCP",
+                "IMP_Vest_Defender_EMR"
+            ]
+        },
+        {
+            "ClassName": "IMP_Vest_MediumVest_Green",
+            "MaxPriceThreshold": 350,
+            "MinPriceThreshold": 125,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Vest_MediumVest_Tan",
+                "IMP_Vest_MediumVest_Camo",
+                "IMP_Vest_MediumVest_UCP",
+                "IMP_Vest_MediumVest_NWU",
+                "IMP_Vest_MediumVest_EMR",
+                "IMP_Vest_MediumVest_MARPAT"
+            ]
+        },
+        {
+            "ClassName": "IMP_Vest_IOTVMini_Green",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 75,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Vest_IOTVMini_Black",
+                "IMP_Vest_IOTVMini_Blue",
+                "IMP_Vest_IOTVMini_Tan",
+                "IMP_Vest_IOTVMini_MARPAT",
+                "IMP_Vest_IOTVMini_UCP",
+                "IMP_Vest_IOTVMini_NWU",
+                "IMP_Vest_IOTVMini_EMR"
+            ]
+        },
+        {
+            "ClassName": "IMP_Vest_MTV_Black",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 150,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Vest_MTV_Green",
+                "IMP_Vest_MTV_Tan",
+                "IMP_Vest_MTV_UCP",
+                "IMP_Vest_MTV_Desert",
+                "IMP_Vest_MTV_MARPAT",
+                "IMP_Vest_MTV_EMR",
+                "IMP_Vest_MTV_NWU"
+            ]
+        },
+        {
+            "ClassName": "IMP_Vest_TacTec_Black",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 90,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Vest_TacTec_Blue",
+                "IMP_Vest_TacTec_Green",
+                "IMP_Vest_TacTec_Tan",
+                "IMP_Vest_TacTec_EMR",
+                "IMP_Vest_TacTec_UCP",
+                "IMP_Vest_TacTec_MARPAT",
+                "IMP_Vest_TacTec_NWU"
+            ]
+        }
+    ]
+}

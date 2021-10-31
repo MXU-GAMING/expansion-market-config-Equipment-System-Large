@@ -1,0 +1,536 @@
+{
+    "m_Version": 4,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_PANTS & #STR_EXPANSION_MARKET_CATEGORY_SHORTS",
+    "Items": [
+        {
+            "ClassName": "medicalscrubspants_blue",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 10,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "medicalscrubspants_green",
+                "medicalscrubspants_white"
+            ]
+        },
+        {
+            "ClassName": "tracksuitpants_black",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 15,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "tracksuitpants_blue",
+                "tracksuitpants_green",
+                "tracksuitpants_red",
+                "tracksuitpants_lightblue"
+            ]
+        },
+        {
+            "ClassName": "prisonuniformpants",
+            "MaxPriceThreshold": 34,
+            "MinPriceThreshold": 17,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "breeches_pink",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 20,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "breeches_red",
+                "breeches_white",
+                "breeches_blue",
+                "breeches_beetcheck",
+                "breeches_beige",
+                "breeches_browncheck",
+                "breeches_black",
+                "breeches_blackcheck",
+                "breeches_green"
+            ]
+        },
+        {
+            "ClassName": "breeches_beige",
+            "MaxPriceThreshold": 42,
+            "MinPriceThreshold": 21,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "breeches_browncheck",
+            "MaxPriceThreshold": 42,
+            "MinPriceThreshold": 21,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "breeches_black",
+            "MaxPriceThreshold": 44,
+            "MinPriceThreshold": 22,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "breeches_blackcheck",
+            "MaxPriceThreshold": 44,
+            "MinPriceThreshold": 22,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "breeches_green",
+            "MaxPriceThreshold": 48,
+            "MinPriceThreshold": 24,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "slackspants_beige",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 20,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "slackspants_blue",
+                "slackspants_darkgrey",
+                "slackspants_lightgrey",
+                "slackspants_white",
+                "slackspants_brown",
+                "slackspants_black",
+                "slackspants_khaki"
+            ]
+        },
+        {
+            "ClassName": "slackspants_brown",
+            "MaxPriceThreshold": 42,
+            "MinPriceThreshold": 21,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "slackspants_black",
+            "MaxPriceThreshold": 44,
+            "MinPriceThreshold": 22,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "slackspants_khaki",
+            "MaxPriceThreshold": 48,
+            "MinPriceThreshold": 24,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "canvaspantsmidi_blue",
+            "MaxPriceThreshold": 48,
+            "MinPriceThreshold": 24,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "canvaspantsmidi_grey",
+                "canvaspantsmidi_red",
+                "canvaspantsmidi_violet",
+                "canvaspantsmidi_beige"
+            ]
+        },
+        {
+            "ClassName": "canvaspantsmidi_beige",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 25,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "canvaspants_blue",
+            "MaxPriceThreshold": 52,
+            "MinPriceThreshold": 26,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "canvaspants_grey",
+                "canvaspants_red",
+                "canvaspants_violet",
+                "canvaspants_beige"
+            ]
+        },
+        {
+            "ClassName": "canvaspants_beige",
+            "MaxPriceThreshold": 56,
+            "MinPriceThreshold": 28,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "jumpsuitpants_blue",
+            "MaxPriceThreshold": 56,
+            "MinPriceThreshold": 28,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "jumpsuitpants_green",
+                "jumpsuitpants_grey",
+                "jumpsuitpants_red"
+            ]
+        },
+        {
+            "ClassName": "policepants",
+            "MaxPriceThreshold": 56,
+            "MinPriceThreshold": 28,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "paramedicpants_blue",
+            "MaxPriceThreshold": 70,
+            "MinPriceThreshold": 35,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "paramedicpants_crimson",
+                "paramedicpants_green"
+            ]
+        },
+        {
+            "ClassName": "firefighterspants_beige",
+            "MaxPriceThreshold": 70,
+            "MinPriceThreshold": 35,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "firefighterspants_black"
+            ]
+        },
+        {
+            "ClassName": "cargopants_beige",
+            "MaxPriceThreshold": 70,
+            "MinPriceThreshold": 35,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "cargopants_black",
+                "cargopants_blue",
+                "cargopants_green",
+                "cargopants_grey"
+            ]
+        },
+        {
+            "ClassName": "IMP_Pants_Cargo_EMR",
+            "MaxPriceThreshold": 70,
+            "MinPriceThreshold": 35,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Pants_Cargo_UCP",
+                "IMP_Pants_Cargo_NWU",
+                "IMP_Pants_Cargo_MARPAT"
+            ]
+        },
+        {
+            "ClassName": "shortjeans_blue",
+            "MaxPriceThreshold": 76,
+            "MinPriceThreshold": 38,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "shortjeans_brown",
+                "shortjeans_darkblue",
+                "shortjeans_red",
+                "shortjeans_black",
+                "shortjeans_green"
+            ]
+        },
+        {
+            "ClassName": "shortjeans_black",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 40,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "shortjeans_green",
+            "MaxPriceThreshold": 84,
+            "MinPriceThreshold": 42,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "jeans_blue",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 40,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "jeans_brown",
+                "jeans_grey",
+                "jeans_bluedark",
+                "jeans_green",
+                "jeans_black"
+            ]
+        },
+        {
+            "ClassName": "jeans_green",
+            "MaxPriceThreshold": 84,
+            "MinPriceThreshold": 42,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "jeans_black",
+            "MaxPriceThreshold": 90,
+            "MinPriceThreshold": 45,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ttskopants",
+            "MaxPriceThreshold": 110,
+            "MinPriceThreshold": 55,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "IMP_Pants_TTSKO_MARPAT",
+            "MaxPriceThreshold": 110,
+            "MinPriceThreshold": 55,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Pants_TTSKO_EMR",
+                "IMP_Pants_TTSKO_UCP",
+                "IMP_Pants_TTSKO_NWU"
+            ]
+        },
+        {
+            "ClassName": "bdupants",
+            "MaxPriceThreshold": 130,
+            "MinPriceThreshold": 65,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "IMP_Pants_ABR_Black",
+            "MaxPriceThreshold": 130,
+            "MinPriceThreshold": 65,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Pants_ABR_Blue",
+                "IMP_Pants_ABR_Green",
+                "IMP_Pants_ABR_Tan",
+                "IMP_Pants_ABR_UCP",
+                "IMP_Pants_ABR_NWU",
+                "IMP_Pants_ABR_EMR",
+                "IMP_Pants_ABR_MARPAT"
+            ]
+        },
+        {
+            "ClassName": "usmcpants_desert",
+            "MaxPriceThreshold": 130,
+            "MinPriceThreshold": 65,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "usmcpants_woodland"
+            ]
+        },
+        {
+            "ClassName": "usmcpants_woodland",
+            "MaxPriceThreshold": 140,
+            "MinPriceThreshold": 70,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "policepantsorel",
+            "MaxPriceThreshold": 140,
+            "MinPriceThreshold": 70,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "hunterpants_winter",
+            "MaxPriceThreshold": 180,
+            "MinPriceThreshold": 90,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "hunterpants_autumn",
+                "hunterpants_brown",
+                "hunterpants_spring",
+                "jeans_green",
+                "hunterpants_summer"
+            ]
+        },
+        {
+            "ClassName": "hunterpants_autumn",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "hunterpants_brown",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "hunterpants_spring",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "hunterpants_summer",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "gorkapants_summer",
+            "MaxPriceThreshold": 260,
+            "MinPriceThreshold": 130,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "gorkapants_autumn",
+                "gorkapants_flat",
+                "gorkapants_pautrev"
+            ]
+        },
+        {
+            "ClassName": "nbcpantsgray",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 200,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "nbcpantsyellow",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 200,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

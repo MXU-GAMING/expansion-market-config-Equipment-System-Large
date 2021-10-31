@@ -1,0 +1,52 @@
+{
+    "m_Version": 4,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_PANTS & #STR_EXPANSION_MARKET_CATEGORY_SHORTS",
+    "Items": [
+        {
+            "ClassName": "IMP_Pants_Cargo_EMR",
+            "MaxPriceThreshold": 70,
+            "MinPriceThreshold": 35,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Pants_Cargo_UCP",
+                "IMP_Pants_Cargo_NWU",
+                "IMP_Pants_Cargo_MARPAT"
+            ]
+        },
+        {
+            "ClassName": "IMP_Pants_TTSKO_MARPAT",
+            "MaxPriceThreshold": 110,
+            "MinPriceThreshold": 55,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Pants_TTSKO_EMR",
+                "IMP_Pants_TTSKO_UCP",
+                "IMP_Pants_TTSKO_NWU"
+            ]
+        },
+        {
+            "ClassName": "IMP_Pants_ABR_Black",
+            "MaxPriceThreshold": 130,
+            "MinPriceThreshold": 65,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Pants_ABR_Blue",
+                "IMP_Pants_ABR_Green",
+                "IMP_Pants_ABR_Tan",
+                "IMP_Pants_ABR_UCP",
+                "IMP_Pants_ABR_NWU",
+                "IMP_Pants_ABR_EMR",
+                "IMP_Pants_ABR_MARPAT"
+            ]
+        }
+    ]
+}

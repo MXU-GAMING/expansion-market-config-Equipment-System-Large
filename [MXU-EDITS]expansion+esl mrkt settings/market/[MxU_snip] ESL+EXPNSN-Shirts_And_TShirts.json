@@ -1,0 +1,221 @@
+{
+    "m_Version": 4,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_SHIRTS & #STR_EXPANSION_MARKET_CATEGORY_TSHIRTS",
+    "Items": [
+        {
+            "ClassName": "tshirt_blue",
+            "MaxPriceThreshold": 16,
+            "MinPriceThreshold": 8,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "tshirt_orangewhitestripes",
+                "tshirt_red",
+                "tshirt_redblackstripes",
+                "tshirt_beige",
+                "tshirt_grey",
+                "tshirt_black",
+                "tshirt_green"
+            ]
+        },
+        {
+            "ClassName": "tshirt_beige",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 10,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "tshirt_grey",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 10,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "tshirt_black",
+            "MaxPriceThreshold": 24,
+            "MinPriceThreshold": 12,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "tshirt_green",
+            "MaxPriceThreshold": 24,
+            "MinPriceThreshold": 12,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "telnyashkashirt",
+            "MaxPriceThreshold": 28,
+            "MinPriceThreshold": 14,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "shirt_bluecheck",
+            "MaxPriceThreshold": 32,
+            "MinPriceThreshold": 16,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "shirt_bluecheckbright",
+                "shirt_redcheck",
+                "shirt_whitecheck",
+                "shirt_planeblack",
+                "shirt_greencheck"
+            ]
+        },
+        {
+            "ClassName": "shirt_planeblack",
+            "MaxPriceThreshold": 34,
+            "MinPriceThreshold": 17,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "shirt_greencheck",
+            "MaxPriceThreshold": 36,
+            "MinPriceThreshold": 18,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "medicalscrubsshirt_blue",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 20,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "medicalscrubsshirt_green",
+                "medicalscrubsshirt_white"
+            ]
+        },
+        {
+            "ClassName": "chernarussportshirt",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 25,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "tacticalshirt_grey",
+            "MaxPriceThreshold": 72,
+            "MinPriceThreshold": 36,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "tacticalshirt_tan",
+                "tacticalshirt_black",
+                "tacticalshirt_olive"
+            ]
+        },
+        {
+            "ClassName": "tacticalshirt_tan",
+            "MaxPriceThreshold": 74,
+            "MinPriceThreshold": 37,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "tacticalshirt_black",
+            "MaxPriceThreshold": 76,
+            "MinPriceThreshold": 38,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "tacticalshirt_olive",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 40,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "IMP_Jacket_TacticalShirt_EMR",
+            "MaxPriceThreshold": 72,
+            "MinPriceThreshold": 36,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Jacket_TacticalShirt_NWU",
+                "IMP_Jacket_TacticalShirt_UCP",
+                "IMP_Jacket_TacticalShirt_MARPAT"
+            ]
+        },
+        {
+            "ClassName": "IMP_Jacket_TacticalShirt_NWU",
+            "MaxPriceThreshold": 74,
+            "MinPriceThreshold": 37,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "IMP_Jacket_TacticalShirt_UCP",
+            "MaxPriceThreshold": 76,
+            "MinPriceThreshold": 38,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "IMP_Jacket_TacticalShirt_MARPAT",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 40,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

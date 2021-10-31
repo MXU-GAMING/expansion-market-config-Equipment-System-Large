@@ -1,0 +1,54 @@
+{
+    "m_Version": 4,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_EYEWEAR",
+    "Items": [
+        {
+            "ClassName": "IMP_Goggles_Ballistic_Green",
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 60,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Goggles_Ballistic_Black",
+                "IMP_Goggles_Ballistic_Desert"
+            ]
+        },
+        {
+            "ClassName": "IMP_Goggles_BolleCobra",
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 60,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Goggles_BolleContour"
+            ]
+        },
+        {
+            "ClassName": "IMP_Goggles_ESSCrossbow",
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 60,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Goggles_ESSICE",
+                "IMP_Goggles_ESSRollbar"
+            ]
+        },
+        {
+            "ClassName": "IMP_Goggles_Oakley",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 75,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

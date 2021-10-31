@@ -1,0 +1,38 @@
+{
+    "m_Version": 4,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_MASKS",
+    "Items": [
+        {
+            "ClassName": "IMP_Mask_Balaclava_UCP",
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 60,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Mask_Balaclava_Green",
+                "IMP_Mask_Balaclava_Black",
+                "IMP_Mask_Balaclava_Desert",
+                "IMP_Mask_Balaclava_Skull",
+                "IMP_Mask_Balaclava_EMR",
+                "IMP_Mask_Balaclava_NWU",
+                "IMP_Mask_Balaclava_MARPAT"
+            ]
+        },
+        {
+            "ClassName": "IMP_M79Mask_Black",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 140,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_M79Mask_Blue",
+                "IMP_M79Mask_Green",
+                "IMP_M79Mask_Yellow"
+            ]
+        }
+    ]
+}

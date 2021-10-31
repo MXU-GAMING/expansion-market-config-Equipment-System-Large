@@ -1,0 +1,20 @@
+{
+    "m_Version": 4,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_GHILLIES",
+    "Items": [
+        {
+            "ClassName": "IMP_ViperGhillie_Multicam",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1200,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_ViperGhillie_Flecktarn",
+                "IMP_ViperGhillie_WD",
+                "IMP_ViperGhillie_Arctic"
+            ]
+        }
+    ]
+}

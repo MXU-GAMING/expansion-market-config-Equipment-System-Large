@@ -1,0 +1,66 @@
+{
+    "m_Version": 4,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_COATS & #STR_EXPANSION_MARKET_CATEGORY_JACKETS",
+    "Items": [
+        {
+            "ClassName": "IMP_Jacket_Raincoat",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "m65jacket_black",
+            "MaxPriceThreshold": 260,
+            "MinPriceThreshold": 130,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "m65jacket_khaki",
+                "m65jacket_tan",
+                "m65jacket_olive"
+            ]
+        },
+        {
+            "ClassName": "IMP_Jacket_M65_EMR",
+            "MaxPriceThreshold": 260,
+            "MinPriceThreshold": 130,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Jacket_M65_UCP",
+                "IMP_Jacket_M65_NWU",
+                "IMP_Jacket_M65_MARPAT"
+            ]
+        },
+        {
+            "ClassName": "IMP_Jacket_USMC_WD",
+            "MaxPriceThreshold": 280,
+            "MinPriceThreshold": 140,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Jacket_USMC_Desert"
+            ]
+        },
+        {
+            "ClassName": "IMP_Jacket_USMC_Desert",
+            "MaxPriceThreshold": 310,
+            "MinPriceThreshold": 155,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

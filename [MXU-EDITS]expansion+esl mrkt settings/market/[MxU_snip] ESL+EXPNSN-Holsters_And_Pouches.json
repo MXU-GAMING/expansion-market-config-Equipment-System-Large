@@ -1,0 +1,217 @@
+{
+    "m_Version": 4,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_HOLSTERS",
+    "Items": [
+        {
+            "ClassName": "chestholster",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 60,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "IMP_Belt_LegHolster",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 60,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Belt_LegHolster_NWU",
+                "IMP_Belt_LegHolster_EMR",
+                "IMP_Belt_LegHolster_MARPAT",
+                "IMP_Belt_LegHolster_UCP"
+            ]
+        },
+        {
+            "ClassName": "platecarrierholster",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 60,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "IMP_Pouch_PlateCarrierHolster_Black",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 60,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Pouch_PlateCarrierHolster_Green",
+                "IMP_Pouch_PlateCarrierHolster_Tan",
+                "IMP_Pouch_PlateCarrierHolster_MARPAT",
+                "IMP_Pouch_PlateCarrierHolster_UCP",
+                "IMP_Pouch_PlateCarrierHolster_EMR",
+                "IMP_Pouch_PlateCarrierHolster_NWU"
+            ]
+        },
+        {
+            "ClassName": "platecarrierpouches",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "IMP_Pouch_ThreePouch_Green",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Pouch_ThreePouch_Tan",
+                "IMP_Pouch_ThreePouch_Camo",
+                "IMP_Pouch_ThreePouch_UCP",
+                "IMP_Pouch_ThreePouch_EMR",
+                "IMP_Pouch_ThreePouch_NWU",
+                "IMP_Pouch_ThreePouch_MARPAT"
+            ]
+        },
+        {
+            "ClassName": "nylonknifesheath",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "IMP_Pouch_LockPick_Black",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 30,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Pouch_LockPick_Green",
+                "IMP_Pouch_LockPick_Tan",
+                "IMP_Pouch_LockPick_UCP",
+                "IMP_Pouch_LockPick_EMR",
+                "IMP_Pouch_LockPick_MARPAT",
+                "IMP_Pouch_LockPick_NWU"
+            ]
+        },
+        {
+            "ClassName": "IMP_Pouch_MapPouch_Black",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 30,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Pouch_MapPouch_Green",
+                "IMP_Pouch_MapPouch_Tan",
+                "IMP_Pouch_MapPouch_UCP",
+                "IMP_Pouch_MapPouch_EMR",
+                "IMP_Pouch_MapPouch_NWU",
+                "IMP_Pouch_MapPouch_MARPAT"
+            ]
+        },
+        {
+            "ClassName": "IMP_Pouch_IFAK_Tan",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 40,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Pouch_IFAK_Green",
+                "IMP_Pouch_IFAK_Black",
+                "IMP_Pouch_IFAK_UCP",
+                "IMP_Pouch_IFAK_EMR",
+                "IMP_Pouch_IFAK_NWU",
+                "IMP_Pouch_IFAK_MARPAT",
+                "IMP_Pouch_IFAK_Woods"
+            ]
+        },
+        {
+            "ClassName": "IMP_Pouch_EM_Green",
+            "MaxPriceThreshold": 180,
+            "MinPriceThreshold": 90,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Pouch_EM_Tan",
+                "IMP_Pouch_EM_Black",
+                "IMP_Pouch_EM_Camo",
+                "IMP_Pouch_EM_EMR",
+                "IMP_Pouch_EM_UCP",
+                "IMP_Pouch_EM_MARPAT",
+                "IMP_Pouch_EM_NWU"
+            ]
+        },
+        {
+            "ClassName": "IMP_Pouch_MagPouch1_Green",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 150,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Pouch_MagPouch1_Black",
+                "IMP_Pouch_MagPouch1_Camo",
+                "IMP_Pouch_MagPouch1_Tan",
+                "IMP_Pouch_MagPouch1_UCP",
+                "IMP_Pouch_MagPouch1_EMR",
+                "IMP_Pouch_MagPouch1_NWU",
+                "IMP_Pouch_MagPouch1_MARPAT"
+            ]
+        },
+        {
+            "ClassName": "IMP_Pouch_Tactical_Tan",
+            "MaxPriceThreshold": 320,
+            "MinPriceThreshold": 150,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Pouch_Tactical_Black",
+                "IMP_Pouch_Tactical_Green",
+                "IMP_Pouch_Tactical_UCP",
+                "IMP_Pouch_Tactical_EMR",
+                "IMP_Pouch_Tactical_NWU",
+                "IMP_Pouch_Tactical_MARPAT"
+            ]
+        },
+        {
+            "ClassName": "IMP_Pouch_BigVest_Green",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 190,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Pouch_BigVest_Tan",
+                "IMP_Pouch_BigVest_Camo",
+                "IMP_Pouch_BigVest_EMR",
+                "IMP_Pouch_BigVest_NWU",
+                "IMP_Pouch_BigVest_UCP",
+                "IMP_Pouch_BigVest_MARPAT"
+            ]
+        }
+    ]
+}

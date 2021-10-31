@@ -1,0 +1,23 @@
+{
+    "m_Version": 4,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_BOOTS & #STR_EXPANSION_MARKET_CATEGORY_SHOES",
+    "Items": [
+        {
+            "ClassName": "IMP_Boots_Lowa_Desert",
+            "MaxPriceThreshold": 170,
+            "MinPriceThreshold": 85,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Boots_Lowa_Black",
+                "IMP_Boots_Lowa_Green",
+                "IMP_Boots_Lowa_UCP",
+                "IMP_Boots_Lowa_NWU",
+                "IMP_Boots_Lowa_EMR",
+                "IMP_Boots_Lowa_MARPAT"
+            ]
+        }
+    ]
+}

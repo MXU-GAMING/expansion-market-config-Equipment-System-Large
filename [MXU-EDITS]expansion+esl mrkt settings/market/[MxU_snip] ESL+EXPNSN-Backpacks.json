@@ -1,0 +1,454 @@
+{
+    "m_Version": 4,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_BACKPACKS",
+    "Items": [
+        {
+            "ClassName": "childbag_red",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 20,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "childbag_blue",
+                "childbag_green"
+            ]
+        },
+        {
+            "ClassName": "childbag_green",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 25,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "drybag_orange",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "drybag_yellow",
+                "drybag_blue",
+                "drybag_black",
+                "drybag_red",
+                "drybag_green"
+            ]
+        },
+        {
+            "ClassName": "drybag_green",
+            "MaxPriceThreshold": 70,
+            "MinPriceThreshold": 35,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "taloonbag_blue",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "taloonbag_orange",
+                "taloonbag_violet",
+                "taloonbag_green"
+            ]
+        },
+        {
+            "ClassName": "taloonbag_green",
+            "MaxPriceThreshold": 140,
+            "MinPriceThreshold": 70,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "smershbag",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "assaultbag_black",
+            "MaxPriceThreshold": 220,
+            "MinPriceThreshold": 110,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "assaultbag_green",
+                "assaultbag_ttsko"
+            ]
+        },
+        {
+            "ClassName": "assaultbag_ttsko",
+            "MaxPriceThreshold": 260,
+            "MinPriceThreshold": 130,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "huntingbag",
+            "MaxPriceThreshold": 260,
+            "MinPriceThreshold": 130,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "tortillabag",
+            "MaxPriceThreshold": 360,
+            "MinPriceThreshold": 180,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "expansiondeserttortilla"
+            ]
+        },
+        {
+            "ClassName": "coyotebag_brown",
+            "MaxPriceThreshold": 360,
+            "MinPriceThreshold": 180,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "coyotebag_green",
+                "expansioncoyoteblack"
+            ]
+        },
+        {
+            "ClassName": "mountainbag_red",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 300,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mountainbag_blue",
+                "mountainbag_orange",
+                "mountainbag_green"
+            ]
+        },
+        {
+            "ClassName": "alicebag_green",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 400,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "alicebag_black",
+                "alicebag_camo"
+            ]
+        },
+        {
+            "ClassName": "alicebag_camo",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 500,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "IMP_Bag_Adventure_Blue",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 250,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Bag_Adventure_Green",
+                "IMP_Bag_Adventure_Red",
+                "IMP_Bag_Adventure_Yellow"
+            ]
+        },
+        {
+            "ClassName": "IMP_Bag_Ataka3",
+            "MaxPriceThreshold": 850,
+            "MinPriceThreshold": 375,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "IMP_Bag_Survival",
+            "MaxPriceThreshold": 750,
+            "MinPriceThreshold": 300,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "IMP_Bag_BattleBag_Black",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 250,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Bag_BattleBag_Green",
+                "IMP_Bag_BattleBag_Tan",
+                "IMP_Bag_BattleBag_UCP",
+                "IMP_Bag_BattleBag_EMR",
+                "IMP_Bag_BattleBag_NWU",
+                "IMP_Bag_BattleBag_MARPAT"
+            ]
+        },
+        {
+            "ClassName": "IMP_Bag_BigMilitaryBag_Black",
+            "MaxPriceThreshold": 1300,
+            "MinPriceThreshold": 650,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Bag_BigMilitaryBag_Tan",
+                "IMP_Bag_BigMilitaryBag_Green",
+                "IMP_Bag_BigMilitaryBag_NWU",
+                "IMP_Bag_BigMilitaryBag_EMR",
+                "IMP_Bag_BigMilitaryBag_UCP",
+                "IMP_Bag_BigMilitaryBag_MARPAT"
+            ]
+        },
+        {
+            "ClassName": "IMP_Bag_BuilderBag",
+            "MaxPriceThreshold": 750,
+            "MinPriceThreshold": 300,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "IMP_Bag_CamelBag_Black",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 350,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Bag_CamelBag_Green",
+                "IMP_Bag_CamelBag_Tan",
+                "IMP_Bag_CamelBag_EMR",
+                "IMP_Bag_CamelBag_NWU",
+                "IMP_Bag_CamelBag_UCP",
+                "IMP_Bag_CamelBag_MARPAT"
+            ]
+        },
+        {
+            "ClassName": "IMP_Bag_CombatBag",
+            "MaxPriceThreshold": 700,
+            "MinPriceThreshold": 300,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "IMP_Bag_CompactBag_Olive",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 275,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Bag_CompactBag_Black",
+                "IMP_Bag_CompactBag_Tan",
+                "IMP_Bag_CompactBag_NWU",
+                "IMP_Bag_CompactBag_EMR",
+                "IMP_Bag_CompactBag_UCP",
+                "IMP_Bag_CompactBag_MARPAT"
+            ]
+        },
+        {
+            "ClassName": "IMP_Bag_CompactBag2_Olive",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 275,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Bag_CompactBag2_Black",
+                "IMP_Bag_CompactBag2_Tan",
+                "IMP_Bag_CompactBag2_UCP",
+                "IMP_Bag_CompactBag2_EMR",
+                "IMP_Bag_CompactBag2_NWU",
+                "IMP_Bag_CompactBag2_MARPAT"
+            ]
+        },
+        {
+            "ClassName": "IMP_Bag_CompactBag3_Olive",
+            "MaxPriceThreshold": 650,
+            "MinPriceThreshold": 275,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Bag_CompactBag3_Black",
+                "IMP_Bag_CompactBag3_Tan",
+                "IMP_Bag_CompactBag3_EMR",
+                "IMP_Bag_CompactBag3_NWU",
+                "IMP_Bag_CompactBag3_UCP",
+                "IMP_Bag_CompactBag3_MARPAT"
+            ]
+        },
+        {
+            "ClassName": "IMP_Bag_HuntingBag_Tan",
+            "MaxPriceThreshold": 750,
+            "MinPriceThreshold": 300,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Bag_HuntingBag_Black",
+                "IMP_Bag_HuntingBag_Green",
+                "IMP_Bag_HuntingBag_EMR",
+                "IMP_Bag_HuntingBag_NWU",
+                "IMP_Bag_HuntingBag_UCP",
+                "IMP_Bag_HuntingBag_MARPAT"
+            ]
+        },
+        {
+            "ClassName": "IMP_Bag_MarchingBag_co",
+            "MaxPriceThreshold": 1400,
+            "MinPriceThreshold": 600,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Bag_MarchingBag_black"
+            ]
+        },
+        {
+            "ClassName": "IMP_Bag_MilitaryBag_Black",
+            "MaxPriceThreshold": 660,
+            "MinPriceThreshold": 275,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Bag_MilitaryBag_Blue",
+                "IMP_Bag_MilitaryBag_Green",
+                "IMP_Bag_MilitaryBag_Tan",
+                "IMP_Bag_MilitaryBag_EMR",
+                "IMP_Bag_MilitaryBag_NWU",
+                "IMP_Bag_MilitaryBag_UCP",
+                "IMP_Bag_MilitaryBag_MARPAT"
+            ]
+        },
+        {
+            "ClassName": "IMP_Bag_MiniMilitaryBag_Black",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 250,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Bag_MiniMilitaryBag_Green",
+                "IMP_Bag_MiniMilitaryBag_Tan",
+                "IMP_Bag_MiniMilitaryBag_EMR",
+                "IMP_Bag_MiniMilitaryBag_NWU",
+                "IMP_Bag_MiniMilitaryBag_UCP",
+                "IMP_Bag_MiniMilitaryBag_MARPAT"
+            ]
+        },
+        {
+            "ClassName": "IMP_Bag_Pegasus_Black",
+            "MaxPriceThreshold": 700,
+            "MinPriceThreshold": 300,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Bag_Pegasus_Green",
+                "IMP_Bag_Pegasus_Grey",
+                "IMP_Bag_Pegasus_Tan",
+                "IMP_Bag_Pegasus_EMR",
+                "IMP_Bag_Pegasus_UCP",
+                "IMP_Bag_Pegasus_NWU",
+                "IMP_Bag_Pegasus_MARPAT"
+            ]
+        },
+        {
+            "ClassName": "IMP_Bag_Rifle_Grey",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 500,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Bag_Rifle_Black",
+                "IMP_Bag_Rifle_Tan",
+                "IMP_Bag_Rifle_Green",
+                "IMP_Bag_Rifle_EMR",
+                "IMP_Bag_Rifle_NWU",
+                "IMP_Bag_Rifle_UCP",
+                "IMP_Bag_Rifle_MARPAT"
+            ]
+        },
+        {
+            "ClassName": "IMP_Bag_Mountain_Blue",
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 400,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Bag_Mountain_Green",
+                "IMP_Bag_Mountain_Red",
+                "IMP_Bag_Mountain_Yellow"
+            ]
+        }
+    ]
+}

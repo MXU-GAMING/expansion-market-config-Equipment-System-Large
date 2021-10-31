@@ -1,0 +1,263 @@
+{
+    "m_Version": 4,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_HELMETS",
+    "Items": [
+        {
+            "ClassName": "IMP_Helmet_6B47_Green",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 25,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Helmet_6B47_Black",
+                "IMP_Helmet_6B47_Desert",
+                "IMP_Helmet_6B47_UCP",
+                "IMP_Helmet_6B47_EMR",
+                "IMP_Helmet_6B47_NWU",
+                "IMP_Helmet_6B47_MARPAT"
+            ]
+        },
+        {
+            "ClassName": "IMP_Helmet_6B47_Cover_Green",
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 45,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Helmet_6B47_Cover_Black",
+                "IMP_Helmet_6B47_Cover_Desert",
+                "IMP_Helmet_6B47_Cover_EMR",
+                "IMP_Helmet_6B47_Cover_NWU",
+                "IMP_Helmet_6B47_Cover_UCP",
+                "IMP_Helmet_6B47_Cover_MARPAT"
+            ]
+        },
+        {
+            "ClassName": "IMP_Helmet_Altyn_Green",
+            "MaxPriceThreshold": 1100,
+            "MinPriceThreshold": 500,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Helmet_Altyn_Camo",
+                "IMP_Helmet_Altyn_Black",
+                "IMP_Helmet_Altyn_Blue",
+                "IMP_Helmet_Altyn_EMR",
+                "IMP_Helmet_Altyn_UCP",
+                "IMP_Helmet_Altyn_NWU",
+                "IMP_Helmet_Altyn_MARPAT"
+            ]
+        },
+        {
+            "ClassName": "IMP_Helmet_AM95_Green",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 250,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Helmet_AM95_Black",
+                "IMP_Helmet_AM95_NWU",
+                "IMP_Helmet_AM95_EMR",
+                "IMP_Helmet_AM95_UCP",
+                "IMP_Helmet_AM95_MARPAT"
+            ]
+        },
+        {
+            "ClassName": "IMP_Helmet_Dominator2_Green",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 200,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Helmet_Dominator2_Flecktarn",
+                "IMP_Helmet_Dominator2_Grey",
+                "IMP_Helmet_Dominator2_Multicam",
+                "IMP_Helmet_Dominator2_Tan",
+                "IMP_Helmet_Dominator2_Urban",
+                "IMP_Helmet_Dominator2_WD",
+                "IMP_Helmet_Dominator2_UCP",
+                "IMP_Helmet_Dominator2_EMR",
+                "IMP_Helmet_Dominator2_NWU",
+                "IMP_Helmet_Dominator2_MARPAT"
+            ]
+        },
+        {
+            "ClassName": "IMP_Helmet_Heavy_Dominator2_Green",
+            "MaxPriceThreshold": 700,
+            "MinPriceThreshold": 300,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Helmet_Heavy_Dominator2_Flecktarn",
+                "IMP_Helmet_Heavy_Dominator2_Grey",
+                "IMP_Helmet_Heavy_Dominator2_Multicam",
+                "IMP_Helmet_Heavy_Dominator2_Tan",
+                "IMP_Helmet_Heavy_Dominator2_Urban",
+                "IMP_Helmet_Heavy_Dominator2_WD",
+                "IMP_Helmet_Heavy_Dominator2_UCP",
+                "IMP_Helmet_Heavy_Dominator2_EMR",
+                "IMP_Helmet_Heavy_Dominator2_NWU",
+                "IMP_Helmet_Heavy_Dominator2_MARPAT"
+            ]
+        },
+        {
+            "ClassName": "IMP_Helmet_Kiver",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 350,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "IMP_Helmet_KiverNew_Black",
+            "MaxPriceThreshold": 850,
+            "MinPriceThreshold": 375,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Helmet_KiverNew_Green",
+                "IMP_Helmet_KiverNew_EMR",
+                "IMP_Helmet_KiverNew_NWU",
+                "IMP_Helmet_KiverNew_UCP",
+                "IMP_Helmet_KiverNew_MARPAT"
+            ]
+        },
+        {
+            "ClassName": "IMP_Helmet_Mich_Blue",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 150,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Helmet_Mich_Black",
+                "IMP_Helmet_Mich_Green",
+                "IMP_Helmet_Mich_UCP",
+                "IMP_Helmet_Mich_EMR",
+                "IMP_Helmet_Mich_NWU",
+                "IMP_Helmet_Mich_MARPAT",
+                "IMP_Helmet_Mich_Skull",
+                "IMP_Helmet_Mich_USA",
+                "IMP_Helmet_Mich_USSR",
+                "IMP_Helmet_Mich_German",
+                "IMP_Helmet_Mich_UK",
+                "IMP_Helmet_Mich_Poland"
+            ]
+        },
+        {
+            "ClassName": "IMP_Helmet_PBR",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 75,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "IMP_Helmet_Tactic_Beige",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 100,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Helmet_Tactic_Black",
+                "IMP_Helmet_Tactic_Green",
+                "IMP_Helmet_Tactic_Camo"
+            ]
+        },
+        {
+            "ClassName": "IMP_Helmet_Vulkan",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 400,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Helmet_Vulkan_EMR",
+                "IMP_Helmet_Vulkan_NWU",
+                "IMP_Helmet_Vulkan_UCP",
+                "IMP_Helmet_Vulkan_MARPAT"
+            ]
+        },
+        {
+            "ClassName": "IMP_Mandible_Green",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 50,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Mandible_Flecktarn",
+                "IMP_Mandible_Grey",
+                "IMP_Mandible_Multicam",
+                "IMP_Mandible_Tan",
+                "IMP_Mandible_Urban",
+                "IMP_Mandible_WD",
+                "IMP_Mandible_UCP",
+                "IMP_Mandible_EMR",
+                "IMP_Mandible_NWU",
+                "IMP_Mandible_MARPAT"
+            ]
+        },
+        {
+            "ClassName": "IMP_HPouch_Green",
+            "MaxPriceThreshold": 75,
+            "MinPriceThreshold": 25,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_HPouch_Flecktarn",
+                "IMP_HPouch_Grey",
+                "IMP_HPouch_Multicam",
+                "IMP_HPouch_Tan",
+                "IMP_HPouch_Urban",
+                "IMP_HPouch_WD",
+                "IMP_HPouch_EMR",
+                "IMP_HPouch_NWU",
+                "IMP_HPouch_UCP",
+                "IMP_HPouch_MARPAT"
+            ]
+        },
+        {
+            "ClassName": "IMP_Visor_Green",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 90,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Visor_Black",
+                "IMP_Visor_Tan",
+                "IMP_Visor_UCP",
+                "IMP_Visor_EMR",
+                "IMP_Visor_NWU",
+                "IMP_Visor_MARPAT"
+            ]
+        }
+    ]
+}

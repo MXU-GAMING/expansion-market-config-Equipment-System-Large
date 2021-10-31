@@ -1,0 +1,50 @@
+{
+    "m_Version": 4,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_SHIRTS & #STR_EXPANSION_MARKET_CATEGORY_TSHIRTS",
+    "Items": [
+        {
+            "ClassName": "IMP_Jacket_TacticalShirt_EMR",
+            "MaxPriceThreshold": 72,
+            "MinPriceThreshold": 36,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "IMP_Jacket_TacticalShirt_NWU",
+                "IMP_Jacket_TacticalShirt_UCP",
+                "IMP_Jacket_TacticalShirt_MARPAT"
+            ]
+        },
+        {
+            "ClassName": "IMP_Jacket_TacticalShirt_NWU",
+            "MaxPriceThreshold": 74,
+            "MinPriceThreshold": 37,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "IMP_Jacket_TacticalShirt_UCP",
+            "MaxPriceThreshold": 76,
+            "MinPriceThreshold": 38,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "IMP_Jacket_TacticalShirt_MARPAT",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 40,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}
